@@ -459,6 +459,7 @@ async function removeBackground() {
 
     const response = await fetch(
       "https://erasely-backend.onrender.com/api/remove-background",
+      // "http://localhost:5000/api/remove-background",
       {
         method: "POST",
         body: formData,
