@@ -1,4 +1,4 @@
-# Erasely -- AI Image Background Remover
+# Erasely - AI Image Background Remover
 
 Erasely is an AI-powered web application that helps users remove
 backgrounds from images through a simple, user-friendly interface. Users

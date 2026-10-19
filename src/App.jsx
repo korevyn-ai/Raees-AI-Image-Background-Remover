@@ -11,7 +11,7 @@ import heroImage from "./assets/hero1.webp";
 const SUPABASE_URL = "https://dqnjrxmzhlnubepxhedl.supabase.co";
 
 const SUPABASE_PUBLISHABLE_KEY =
-  "sb_publishable_Z9XMSxukE9mT-0X4lIpfmQ_CheLYg7e";
+  "asb_publishable_Z9XMSxukE9mT-0X4lIpfmQ_CheLYg7e";
 
 const supabaseClient = createClient(
   SUPABASE_URL,
